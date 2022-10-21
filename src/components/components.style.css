@@ -1,0 +1,44 @@
+/* GLOBAL STYLES */
+* {
+    box-sizing: border-box;
+}
+
+
+/* COMPONENTS STYELS */
+
+
+
+/* PAGES STYLES */
+
+    /* navbar subpages styles */
+    .inline {
+        display: inline;
+    }
+    .undecor {
+        text-decoration: none;
+    }
+    .pr-5{
+        padding-right: 10px;
+    }
+    .bxshdw {
+        box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    }
+    
+    /* login components styles */
+
+    .mt{
+        margin-top: 6%;
+    }
+    .small {
+        font-size: 1px !important ;
+    }
+    .imgsetting {
+        position: relative;
+        width: 60px;
+        height: 60px;
+        left: 34%;
+    }
+
+
+
+/* SUB_PAGES STYLES */
